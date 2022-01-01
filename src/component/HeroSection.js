@@ -102,8 +102,10 @@ const TextHold = styled.div`
 		}
 
 		h2 {
-			font-size: 20px;
-			width: 300px;
+			font-size: 17px;
+			width: 320px;
+			/* width: 40.8ch; */
+			overflow: none;
 		}
 	}
 `;
